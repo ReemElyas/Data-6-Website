@@ -5,7 +5,7 @@
 
 <br>
 
-<img width="1200" alt="What-is-collaborative-coding--1" src="https://user-images.githubusercontent.com/110420942/182444970-accd0bfc-0662-47c0-9f8c-5679df9eb0ef.png">
+<img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
 
 - Bulleted
 - List
@@ -23,7 +23,7 @@
 
 <br> 
 <br>
-## What's Wrong with this visualization? 
+## What's Wrong With This Visualization? 
 
 #### While the previous map provides a true representation of the world's population by country, the scale of the map proves the visualization ineffective when *comparing* differences in population geographically. In order to fix this issue, we've modified the map by using a logarithmic scale. After doing so, we get a map that looks like this: 
 
