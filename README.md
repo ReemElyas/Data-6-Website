@@ -5,7 +5,8 @@
 
 <br>
 
-<img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
+<img src="./<img width="1200" alt="What-is-collaborative-coding--1" src="https://user-images.githubusercontent.com/110420942/182446623-3f49e2f0-61ac-4d0d-a690-3a2a76f2f998.png">
+" style="width:50%; margin:auto; display:block">
 
 - Bulleted
 - List
