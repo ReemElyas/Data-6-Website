@@ -1,12 +1,10 @@
 
-
 # **Reem's Data 6 Website** 
 ## Reem Elyas
 ### Hello! I'm Reem Elyas, an incoming first-year student at UC Berkeley. I'm from Monterey, California, and am currently working towards a degree in Computer Science. Besides coding, I love to write and play music, and have a huge interest in US politics. I've created this website to display my projects at Berkeley so far. Enjoy! 
 <br>
 <img width="1200" alt="What-is-collaborative-coding--1" src="https://user-images.githubusercontent.com/110420942/182444970-accd0bfc-0662-47c0-9f8c-5679df9eb0ef.png">
 
-<img src="./"What-is-collaborative-coding--1.png" style="width:50%; margin:auto; display:block">
 - Bulleted
 - List
 
