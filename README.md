@@ -10,10 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+# **Reem's Data 6 Website** 
+## Reem Elyas
+### Hello! I'm Reem Elyas, an incoming first-year student at UC Berkeley. I'm from Monterey, California, and am currently working towards a degree in Computer Science. Besides coding, I love to write and play music, and have a huge interest in US politics. Enjoy my website! 
 
 - Bulleted
 - List
